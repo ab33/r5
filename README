@@ -1,1 +1,26 @@
 HTML5 videos revealer. <ab33@gmx.com>
+
+How to install:
+--------------
+In Google Chrome:
+	* _go_to_ "Options"
+	* _select_tab_ "Extensions"
+	* _click_checkbox_ "Developer mode"
+	* _press_button_ "Load unpacked extension.."
+	* _point_to_ a directory with unpacked extension
+	* _observe_ "R5" action icon in browser's tab
+	* done
+
+How to use:
+----------
+	* on a page with HTML5 video press "R5" action icon in browser's tab
+	* you should observe an overlay over the HTML5 video player window
+
+Hints:
+-----
+	* some sites shows a poster image prior to actual video playback -
+	  to reveal video sources initiate/start playback manually and
+	  then press "R5" action icon again
+	* pressing "R5"action icon reveals actual HTML5 video sources -
+	  select different video qualities in video player and
+	  then press "R5" action icon again
