@@ -1,5 +1,5 @@
 {
-  "name": "Reveal5",
+  "name": "Reveal HTML5 video sources",
   "version": "0.1",
   "description": "Reveals media sources of HTML5 media elements on the page.",
   "content_scripts": [ {
