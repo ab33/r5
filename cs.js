@@ -28,7 +28,7 @@ function decorate() {
 				var loc = document.createElement('a');
 				loc.href = o.url;
 				var ext = loc.pathname.split('.').pop();
-				o.ext = (ext.length > 0 && ext.length < 5) ? ext : '';
+				o.ext = (ext.length > 0 && ext.length < 6) ? ext : '';
 
 				sources.push(o);
 			}
@@ -42,7 +42,7 @@ function decorate() {
 			var loc  = document.createElement('a');
 			loc.href = o.url;
 			var ext  = loc.pathname.split('.').pop();
-			o.ext = (ext.length > 0 && ext.length < 8) ? ext : '';
+			o.ext = (ext.length > 0 && ext.length < 6) ? ext : '';
 
 			sources.push(o);
 		}
