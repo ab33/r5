@@ -4,7 +4,8 @@
   "description": "Reveals media sources of HTML5 media elements on the page.",
   "content_scripts": [ {
       "js": [ "cs.js" ],
-      "matches": [ "http://*/*", "https://*/*" ]
+      "matches": [ "http://*/*", "https://*/*" ],
+      "all_frames": true
   } ],
   "browser_action": {
       "default_icon": "icon.png",
