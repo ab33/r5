@@ -8,8 +8,7 @@
             "128": "icon128.png" },
   "content_scripts": [ {
       "js": [ "cs.js" ],
-      "matches": [ "http://*/*", "https://*/*" ],
-      "all_frames": true
+      "matches": [ "http://*/*", "https://*/*" ]
   } ],
   "browser_action": {
       "default_icon": "icon.png",
