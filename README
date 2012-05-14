@@ -1,5 +1,17 @@
 HTML5 videos revealer. <ab33@gmx.com>
 
+1. Instructions for packed version.
+2. Instructions for unpacked version.
+3. Usage instructions.
+4. Permissions.
+
+
+1. Instructions for packed version.
+
+	* In Chrome browser click on URL that points to .CRX file.
+
+2. Instructions for unpacked version.
+
 How to install:
 --------------
 In Google Chrome:
@@ -10,6 +22,9 @@ In Google Chrome:
 	* _point_to_ a directory with unpacked extension
 	* _observe_ "R5" action icon in browser's tab
 	* done
+
+
+3. Usage instructions.
 
 How to use:
 ----------
@@ -24,3 +39,10 @@ Hints:
 	* pressing "R5"action icon reveals actual HTML5 video sources -
 	  select different video qualities in video player and
 	  then press "R5" action icon again
+
+
+4. Permissions.
+
+	* "Your data on all websites" - required for Javascript file (cs.js) injection,
+	* "Your tabs and browsing activity" - required for opening a page in a new tab from the history.
+
